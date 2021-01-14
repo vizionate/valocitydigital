@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /tr_leads/
+Disallow: *.pdf
